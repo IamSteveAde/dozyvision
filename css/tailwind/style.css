@@ -11,6 +11,7 @@ align-items: start;
 padding: 12px; /* small internal padding */
 align-items: center;
 justify-self: center;
+height: 100vh;
 }
 html{
     scroll-behavior: smooth;
